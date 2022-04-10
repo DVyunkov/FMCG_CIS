@@ -14,4 +14,4 @@
 [Шаблон КХД (Корпоративного Хранилища Данных)]:https://github.com/DVyunkov/FMCG_BI_DWH
 [Методику ведения ИТ проектов с учетом специфики FMCG с шаблонами документов]:https://github.com/DVyunkov/FMCG_Projects
 [Типовая архитектура КИС]:https://github.com/DVyunkov/FMCG_CIS/wiki
-[Рекомендуемые книги и методические материалы]:https://github.com/DVyunkov/FMCG_CIS/wiki
+[Рекомендуемые книги и методические материалы]:https://github.com/DVyunkov/FMCG_CIS/wiki/Рекомендуемые-книги
